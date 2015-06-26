@@ -1,5 +1,7 @@
 ## loopback-connector-crate
 
+[![Join the chat at https://gitter.im/jagad/loopback-connector-crate](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jagad/loopback-connector-crate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The [Crate Datastore] (https://crate.io/) Connector module for for [loopback-datasource-juggler](http://docs.strongloop.com/loopback-datasource-juggler/).
 
 ## Connector settings
